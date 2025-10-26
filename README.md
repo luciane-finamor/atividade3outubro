@@ -1,6 +1,6 @@
 # ⚡ Atividade 03 – Portal da Literatura
 
-***LINK DA PAGINA:*** 
+***LINK DA PAGINA:*** https://luciane-finamor.github.io/atividade3outubro/
 ## 📘 Contexto da Atividade
 
 A **Atividade 03** tem como foco transformar o **Portal da Literatura** em uma **aplicação web dinâmica e interativa** através do uso de **JavaScript avançado**.  
